@@ -11,5 +11,5 @@ Os meus hobbies são:
 - Jogar videogame
 - Ouvir música 
 - Assistir futebol
-- jogar basquete
-- Jogar sinuca
+- Torcer para o Vasco
+- Jogar CS
