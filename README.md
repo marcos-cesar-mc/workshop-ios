@@ -9,5 +9,7 @@ Olá meu nome é **Douglas Oliveira** moro em São Paulo/SP e trabalho como **Co
 Os meus hobbies são:
 - Ir ao cinema
 - Jogar videogame
-- Ouvir música
+- Ouvir música 
 - Assistir futebol
+- jogar basquete
+- Jogar sinuca
